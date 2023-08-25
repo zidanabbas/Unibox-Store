@@ -5,12 +5,13 @@ const Categories = () => {
   return (
     <>
       <Header />
-      <section className="pt-24 pb-36">
-        <div className="container p-2 min-h-screen px-7 bg-slate-500">
-          <h4 className="font-poppins text-headline text-center font-bold">
-            ini adalah halaman Categories
-          </h4>
-        </div>
+      <section className="flex justify-center items-center p-2 min-h-screen px-7 flex-col bg-white">
+        <h1 className="font-poppins text-background text-center font-bold text-3xl">
+          Oops!
+        </h1>
+        <p className="my-5 text-x text-background">
+          Sorry, this page is currently under maintenance
+        </p>
       </section>
     </>
   );
