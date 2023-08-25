@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="w-full flex items-center justify-between relative px-4">
         <div className="first-letter:uppercase font-semibold">
           <Link to={"/"} className="">
-            Shopcart
+            UniboxStore
           </Link>
         </div>
         <nav className="hidden absolute py-5 shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:shadow-none lg-rounded-none">
